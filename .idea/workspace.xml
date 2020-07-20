@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4865228-b8ce-4415-8417-2f640780174a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/AbstractFactory.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/FemaleBlackHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/FemaleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/FemaleWhiteHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/FemaleYellowHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/MaleBlackHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/MaleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/MaleWhiteHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/MaleYellowHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/abstractfactory/NvWa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/factorymethod/BlackHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/factorymethod/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/factorymethod/HumanFacoty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/factorymethod/NvWa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/factorymethod/SimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/factorymethod/WhiteHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/factorymethod/YellowHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/Proxy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/aopInterface/KindWomen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/aopInterface/PanJinLian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/aopInterface/WangPoProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/aopInterface/XiMenQing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/cglib/PanJinLian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/cglib/WangPoProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/cglib/XiMenQing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/init/KindWomen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/init/PanJinLian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/init/WangPo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/init/XiMenQing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/init/proxy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/jdk/KindWomen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/jdk/PanJinLian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/jdk/WangPoProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chencan/proxy/jdk/XiMenQing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designpatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designpatterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chencan/singleton/Minister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chencan/singleton/Minister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chencan/singleton/S01_Emperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chencan/singleton/S01_Emperor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chencan/singleton/S02_Emperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chencan/singleton/S02_Emperor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chencan/singleton/S03_Emperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chencan/singleton/S03_Emperor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chencan/singleton/S04_Emperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chencan/singleton/S04_Emperor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chencan/singleton/S05_Emperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chencan/singleton/S05_Emperor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chencan/singleton/singleton.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chencan/singleton/singleton.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="UML Use Case" />
+        <option value="UML Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\workspace\designpatterns" />
+        <option value="D:\workspace\designpatterns\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1el80MCKHQ0mvafarmE470Z5xnR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/chencan/factorymethod" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\designpatterns\src\com\chencan\proxy" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.chencan.abstractfactory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chencan.abstractfactory" />
+      <recent name="com.chencan.factorymethod" />
+      <recent name="com.chencan.proxy.aop" />
+      <recent name="com.chencan.singleton" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\designpatterns\src\main\java\com\chencan\abstractfactory" />
+      <recent name="D:\workspace\designpatterns\src\main\java\com\chencan\proxy" />
+      <recent name="D:\workspace\designpatterns\src\com\chencan\proxy\jdk" />
+      <recent name="D:\workspace\designpatterns\src\com\chencan\proxy\init" />
+      <recent name="D:\workspace\designpatterns\src\com\chencan\singleton" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NvWa (1)">
+    <configuration name="NvWa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chencan.factorymethod.NvWa" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chencan.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NvWa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chencan.abstractfactory.NvWa" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chencan.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiMenQing (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chencan.proxy.jdk.XiMenQing" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chencan.proxy.jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiMenQing (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chencan.proxy.cglib.XiMenQing" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chencan.proxy.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiMenQing (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chencan.proxy.aopInterface.XiMenQing" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chencan.proxy.aopInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiMenQing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chencan.proxy.aopInterface.XiMenQing" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chencan.proxy.aopInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NvWa (1)" />
+        <item itemvalue="Application.NvWa" />
+        <item itemvalue="Application.XiMenQing (4)" />
+        <item itemvalue="Application.XiMenQing (3)" />
+        <item itemvalue="Application.XiMenQing (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4865228-b8ce-4415-8417-2f640780174a" name="Default Changelist" comment="" />
+      <created>1594884594875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594884594875</updated>
+      <workItem from="1594884598909" duration="329000" />
+      <workItem from="1594885480005" duration="2457000" />
+      <workItem from="1594888146984" duration="10552000" />
+      <workItem from="1594942902888" duration="2100000" />
+      <workItem from="1594945035263" duration="482000" />
+      <workItem from="1594945558648" duration="148000" />
+      <workItem from="1594945798228" duration="827000" />
+      <workItem from="1594946984932" duration="37000" />
+      <workItem from="1594947049910" duration="864000" />
+      <workItem from="1594949370136" duration="15850000" />
+      <workItem from="1595038471678" duration="951000" />
+      <workItem from="1595071226417" duration="2470000" />
+      <workItem from="1595123689472" duration="858000" />
+      <workItem from="1595125635060" duration="33000" />
+      <workItem from="1595205186975" duration="12674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="812" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1595228262057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="812" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595228262057" />
+    <state x="313" y="158" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1594983670257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="313" y="158" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1594983670257" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595228075928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595228075928" />
+    <state x="786" y="174" key="FileChooserDialogImpl" timestamp="1595125665476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="786" y="174" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595125665476" />
+    <state x="686" y="363" width="291" height="290" key="Github.ShareDialog" timestamp="1594970829421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="686" y="363" width="291" height="290" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1594970829421" />
+    <state x="632" y="101" key="Github.UntrackedFilesDialog" timestamp="1594970868791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="632" y="101" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594970868791" />
+    <state width="1014" height="204" key="GridCell.Tab.0.bottom" timestamp="1595228949086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595228949086" />
+    <state width="1014" height="204" key="GridCell.Tab.0.center" timestamp="1595228949085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595228949085" />
+    <state width="1014" height="204" key="GridCell.Tab.0.left" timestamp="1595228949085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595228949085" />
+    <state width="1014" height="204" key="GridCell.Tab.0.right" timestamp="1595228949085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595228949085" />
+    <state x="348" y="0" key="SettingsEditor" timestamp="1595214878706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595214878706" />
+    <state x="697" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1595125635072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="697" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595125635072" />
+    <state x="563" y="116" width="941" height="594" key="new project wizard" timestamp="1594986695135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="116" width="941" height="594" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594986695135" />
+    <state x="706" y="145" key="search.everywhere.popup" timestamp="1594906686741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="706" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594906686741" />
+  </component>
+</project>
